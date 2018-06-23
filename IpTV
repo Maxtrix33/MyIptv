@@ -1,0 +1,100 @@
+#EXTM3U
+#EXTINF:0, Prime
+http://212.0.217.42/live/disk1/Prime/SA/01.m3u8
+#EXTINF:0, Prime HD
+http://212.0.217.42/live/disk1/PrimeHD/SA/01.m3u8
+#EXTINF:0, Canal 2
+http://212.0.217.42/live/disk1/Canal2/SA/01.m3u8
+#EXTINF:0, Canal 3
+http://212.0.217.42/live/disk1/Canal3/SA/02.m3u8
+#EXTINF:0, Canal 3 HD
+http://212.0.217.42/live/disk1/Canal3HD/SA/03.m3u8
+#EXTINF:0, Publika
+http://212.0.217.42/live/disk1/PublikaTV/SA/01.m3u8
+#EXTINF:0, Publika HD
+http://212.0.217.42/live/disk1/PublikaTVHD/SA/02.m3u8
+#EXTINF:0, Moldova 1
+http://212.0.217.42/live/disk1/Moldova1/SA/01.m3u8
+#EXTINF:0, Moldova 2
+http://212.0.217.42/live/disk1/Moldova2/SA/02.m3u8
+#EXTINF:0, СТС Молдова
+http://212.0.217.42/live/disk1/CTCMega/SA/02.m3u8
+#EXTINF:0, НТВ Молдова
+http://212.0.217.42/live/disk1/NTVMoldova/SA/02.m3u8
+#EXTINF:0, РЕН ТВ Молдова
+http://212.0.217.42/live/disk1/RENTVMoldova/SA/01.m3u8
+#EXTINF:0, ТНТ BRAVO
+http://212.0.217.42/live/disk1/THTBravo/SA/02.m3u8
+#EXTINF:0, National 4
+http://212.0.217.42/live/disk1/N4/SA/02.m3u8
+#EXTINF:0, TV7
+http://212.0.217.42/live/disk1/TV7/SA/01.m3u8
+#EXTINF:0, РТР Молдова
+http://212.0.217.42/live/disk1/RTRMoldova/SA/02.m3u8
+#EXTINF:0, MBC
+http://212.0.217.42/live/disk1/MBC/SA/01.m3u8
+#EXTINF:0, TVR Moldova
+http://212.0.217.42/live/disk1/TVR/SA/02.m3u8
+#EXTINF:0, Euro TV
+http://212.0.217.42/live/disk1/EuroTV/SA/02.m3u8
+#EXTINF:0, GRT
+http://212.0.217.42/live/disk1/GRT/SA/GRT.m3u8
+#EXTINF:0, TVC 21
+http://212.0.217.42/live/disk1/TVC21/SA/TVC21.m3u8
+#EXTINF:0, Кинохит
+http://212.0.217.42/live/disk1/Kinohit/SA/01.m3u8
+#EXTINF:0, National TV
+http://212.0.217.42/live/disk1/NationalTV/SA/NationalTV.m3u8
+#EXTINF:0, Кино ТВ
+http://212.0.217.42/live/disk1/KinoTV/SA/01.m3u8
+#EXTINF:0, Minimax
+http://212.0.217.42/live/disk1/Minimax/SA/02.m3u8
+#EXTINF:0, Gurinel TV
+http://212.0.217.42/live/disk1/GurinelTV/SA/GurinelTV.m3u8
+#EXTINF:0, Мульт
+http://212.0.217.42/live/disk1/Mult/SA/Mult.m3u8
+#EXTINF:0, Nickelodeon
+http://212.0.217.42/live/disk1/Nickelodeon/SA/01.m3u8
+#EXTINF:0, Boomerang
+http://212.0.217.42/live/disk1/Boomerang/SA/01.m3u8
+#EXTINF:0, Eurosport 1
+http://212.0.217.42/live/disk1/Eurosport/SA/01.m3u8
+#EXTINF:0, Moldova Sport
+http://212.0.217.42/live/disk1/MoldovaSport/SA/MoldovaSport.m3u8
+#EXTINF:0, Sport 1
+http://212.0.217.42/live/disk1/Sport1/SA/Sport1.m3u8
+#EXTINF:0, Discovery Channel
+http://212.0.217.42/live/disk1/Discovery/SA/Discovery.m3u8
+#EXTINF:0, TLC
+http://212.0.217.42/live/disk1/TLC/SA/TLC.m3u8
+#EXTINF:0, Euronews
+http://212.0.217.42/live/disk1/Euronews/SA/Euronews.m3u8
+#EXTINF:0, Realitatea TV RO
+http://212.0.217.42/live/disk1/RealitateaTVRomania/SA/RealitateaTVRomania.m3u8
+#EXTINF:0, РБК
+http://212.0.217.42/live/disk1/RBC/SA/RBC.m3u8
+#EXTINF:0, Gold TV
+http://212.0.217.42/live/disk1/GoldTV/SA/GoldTV.m3u8
+#EXTINF:0, UTV
+http://212.0.217.42/live/disk1/UTV/SA/UTV.m3u8
+#EXTINF:0, RU TV Moldova
+http://212.0.217.42/live/disk1/RUTVMoldova/SA/RUTVMoldova.m3u8
+#EXTINF:-1,Publica TV
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1,M1
+rtmp://212.0.209.209:1935/live/mp4:MoldovaUnu1
+#EXTINF:-1,Moldova 1
+rtmp://live.trm.md:1935/live/MoldovaUnu1
+#EXTINF:-1,Moldova 2
+rtmp://live.trm.md:1935/live/MoldovaDoi2
+#EXTINF:-1,Moldova 1
+http://109.185.159.215:4011/udp/239.100.0.2:5656
+#EXTINF:-1,Prime
+http://109.185.159.215:4011/udp/239.100.0.3:5656
+#EXTINF:-1,Jurnal TV
+http://109.185.159.215:4011/udp/239.100.0.4:5656
+#EXTINF:-1,N4
+http://109.185.159.215:4011/udp/239.100.0.5:5656
+#EXTINF:-1,Первый
+http://109.185.159.215:4011/udp/239.100.0.6:5656
+#EXTINF:-1,Pro TV
